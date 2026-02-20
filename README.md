@@ -13,7 +13,7 @@ Aside from that I've mostly done Front-End Development work in the other project
 
 - LinkedIn: https://www.linkedin.com/in/emmanuel-gabriel-santos-0023b6394/
 - Github: You are already here!
-- Portfolio: [To be added]
+- Portfolio: https://santos-e-portfolio.vercel.app/
 
 **Coding Languages:**
 - Java
