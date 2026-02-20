@@ -17,8 +17,13 @@ Portfolio: [To be added]
 - Java
 - C#
 - C++/C
-- Javascript
 - HTML/CSS and JavaScript
+
+**Tools:**
+- Blender
+- Unity
+- Git
+- FireAlpaca
 
 **Projects:**
 - Dine 'o Rush [Small GAMEART 2D platformer project]
