@@ -11,9 +11,9 @@ Aside from that I've mostly done Front-End Development work in the other project
 
 **Links:**
 
-LinkedIn: https://www.linkedin.com/in/emmanuel-gabriel-santos-0023b6394/
-Github: You are already here!
-Portfolio: [To be added]
+- LinkedIn: https://www.linkedin.com/in/emmanuel-gabriel-santos-0023b6394/
+- Github: You are already here!
+- Portfolio: [To be added]
 
 **Coding Languages:**
 - Java
