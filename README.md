@@ -5,14 +5,14 @@ Hello!
 
 **About me:**
 
-I am Emman, a 4th Year Student, Bachelor of Computer Science Major in Software Technology. I have an interest in Game Development, Game Design, and asset creation (2D and 3D). Most of the works (that I think are noteworthy) usually involve these interests.
+I am Emman, a fresh graduate with a Bachelor of Computer Science, majoring in Software Technology. I'm interested in Game Development, Game Design, and asset creation (2D and 3D). Most of the work (that I think is noteworthy) usually involves these interests.
 
-Aside from that I've mostly done Front-End Development work in the other projects I was involved in.
+Aside from that, I've mostly done Front-End Development work on the other projects I've been involved in.
 
 **Links:**
 
 - LinkedIn: https://www.linkedin.com/in/emmanuel-gabriel-santos-0023b6394/
-- Github: You are already here!
+- GitHub: You are already here!
 - Portfolio: https://santos-e-portfolio.vercel.app/
 
 **Coding Languages:**
@@ -20,10 +20,12 @@ Aside from that I've mostly done Front-End Development work in the other project
 - C#
 - C++/C
 - HTML/CSS and JavaScript
+- GDScript
 
 **Tools:**
 - Blender
 - Unity
+- Godot
 - Git
 - FireAlpaca
 
